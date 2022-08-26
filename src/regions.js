@@ -8534,7 +8534,7 @@ let districts = {
         },
         {
             "code": "350625",
-            "name": "长泰县",
+            "name": "长泰区",
             "city": "漳州市",
             "province": "福建省"
         },
@@ -8564,7 +8564,13 @@ let districts = {
         },
         {
             "code": "350681",
-            "name": "龙海市",
+            "name": "龙海区",
+            "city": "漳州市",
+            "province": "福建省"
+        },
+        {
+            "code": "350682",
+            "name": "高新区",
             "city": "漳州市",
             "province": "福建省"
         }
